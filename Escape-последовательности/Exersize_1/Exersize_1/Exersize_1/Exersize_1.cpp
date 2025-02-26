@@ -1,4 +1,9 @@
-﻿#include <iostream>
+﻿/*Напишите программу, которая выводит на консоль текст:
+
+"Hello, World!"
+\Dennis Ritchie\*/
+
+#include <iostream>
 using namespace std;
 
 int main()

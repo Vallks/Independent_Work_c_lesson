@@ -1,4 +1,6 @@
-﻿#include <iostream>
+﻿/*Вычислить формулы
+программа сначала вводит значение вещественной переменной а, выводит z и на следующей строке y.*/
+#include <iostream>
 #include <cmath>
 
 using namespace std;

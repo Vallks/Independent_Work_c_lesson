@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿//Введите два целых числа и найдите их сумму.
+#include <iostream>
 
 using namespace std;
 

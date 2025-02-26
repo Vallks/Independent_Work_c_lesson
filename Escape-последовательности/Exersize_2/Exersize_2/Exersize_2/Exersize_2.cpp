@@ -1,4 +1,10 @@
-﻿#include <iostream>
+﻿/*Напишите программу, которая выводит на консоль строки:
+
+I study programming language C\C++
+
+Я изучаю язык программирования "C++"*/
+
+#include <iostream>
 using namespace std;
 
 int main()
