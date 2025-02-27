@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿/*Напишите программу, которая вводит 5 целых чисел, и выводит значение наименьшего из них.*/
+#include <iostream>
 
 using namespace std;
 
