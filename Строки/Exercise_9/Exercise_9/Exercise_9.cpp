@@ -36,6 +36,5 @@ int main() {
     }
 
     puts(str);
-    return 0;
-    //Проверка
+    return 0
 }
